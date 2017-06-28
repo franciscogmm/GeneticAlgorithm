@@ -12,6 +12,7 @@ Working my way to creating an version of Ragnarok Online that runs a genetic alg
         - stela zhang's https://www.youtube.com/watch?v=eZ14la6zttM
         - phyces' https://www.youtube.com/watch?v=GvEywP8t12I
         - Geoff. S. Nitschke and Leo. H. Langenhoven's Neuro-Evolution for Competitive Co-evolution of Biologically Canonical Predator and Prey Behaviors (https://people.cs.uct.ac.za/~gnitschke/projects/papers/2010-Neuro-Evolution%20for%20Competitive%20Co-evolution%20of%20Biologically%20Canonical%20Predator%20and%20Prey%20Behaviors.pdf)
+        
     - implemented using pybrain and pygame
         - pybrain: http://pybrain.org/docs/
         - pygame: http://thepythongamebook.com
