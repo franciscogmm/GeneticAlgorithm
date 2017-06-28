@@ -23,3 +23,4 @@ Working my way to creating an version of Ragnarok Online that runs a genetic alg
         - Is genome always a list when being subjected to crossovers? or can different parts of the genome have its own individual crossover instance?
         - Are there different ways of doing natural selection, generation, crossover, and mutation?
         - How should the fitness function be created to steer agents towards a certain direction of optimal behavior?
+        - Steering is currently brute forced... will have to be revised.
