@@ -1,10 +1,10 @@
 # GeneticAlgorithm
 Working my way to creating an version of Ragnarok Online that runs a genetic algorithm. lol.
 
-1. shakespeare_monkey_thecodingtrain.py
+### 1. shakespeare_monkey_thecodingtrain.py
     - inspired by: The Coding Train's https://www.youtube.com/watch?v=-jv3CgDN9sc&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&index=4
 
-2. agent_survival.py
+### 2. agent_survival.py
     - inspired by:
         - The Coding Train's https://www.youtube.com/watch?v=-jv3CgDN9sc&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&index=4
         - emgoz's https://github.com/emgoz/Neural-network-snake
