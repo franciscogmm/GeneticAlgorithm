@@ -18,8 +18,8 @@ Working my way to creating an version of Ragnarok Online that runs a genetic alg
             - Most of the implementations I found were on Java or C. That being said, it was quite a challenge to make pygame work. lol.
     
     - Notes (or questions I was able to answer through study):
-        a. Important to understand the difference of a normal feedforward neural net (with backprop) and a feedforward neural net that is optimized using genetic algorithms/neuroevolution. 
-        b. What does it mean to evolve a neural net based on optimal behavior?
-        c. Is genome always a list when being subjected to crossovers? or can different parts of the genome have its own individual crossover instance?
-        d. Are there different ways of doing natural selection, generation, crossover, and mutation?
-        e. How should the fitness function be created to steer agents towards a certain direction of optimal behavior?
+        - Important to understand the difference of a normal feedforward neural net (with backprop) and a feedforward neural net that is optimized using genetic algorithms/neuroevolution. 
+        - What does it mean to evolve a neural net based on optimal behavior?
+        - Is genome always a list when being subjected to crossovers? or can different parts of the genome have its own individual crossover instance?
+        - Are there different ways of doing natural selection, generation, crossover, and mutation?
+        - How should the fitness function be created to steer agents towards a certain direction of optimal behavior?
