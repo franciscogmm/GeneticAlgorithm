@@ -1,5 +1,5 @@
 # GeneticAlgorithm
-Working my way to creating an version of Ragnarok Online that runs a genetic algorithm. lol.
+Working my way to creating an version of Ragnarok Online that runs a genetic algorithm. lol. Check out the journey at: https://dataontherocks.wordpress.com/2017/06/29/simulating-multi-agent-survival-using-neuroevolutiongenetic-algorithms-python-part-1/
 
 ### 1. shakespeare_monkey_thecodingtrain.py
     - inspired by: The Coding Train's https://www.youtube.com/watch?v=-jv3CgDN9sc&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&index=4
